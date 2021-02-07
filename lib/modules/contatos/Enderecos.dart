@@ -255,7 +255,7 @@ class _EnderecosState extends State<Enderecos> with TickerProviderStateMixin {
                 controller: _cepController,
                 decoration: InputDecoration(
                   suffixIcon: IconButton(
-                    icon: _ufController.text == '' ? Icon(Icons.search) : Icon(Icons.clear),
+                    icon:  Icon(Icons.search) ,
                     onPressed: () {
                       _buscaCep(context);
                     },
