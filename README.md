@@ -1,16 +1,10 @@
-# datasmart
+# Agenda de contatos - flutter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Listagem de contatos cadastrados (nome, telefone e data de inclusão);
+2. Detalhes do contato (nome, telefone, data de inclusão, e-mail, endereços
+e demais campos);
+3. Permitir a inclusão de novos contatos;
+4. Cadastrar endereços associando a um contato cadastrado;
+5. Permitir associar mais de um endereços ao contato;
+6. Utilizar a API do “viacep“ para auxiliar no preenchimento dos dados do
+endereço (https://viacep.com.br/).
